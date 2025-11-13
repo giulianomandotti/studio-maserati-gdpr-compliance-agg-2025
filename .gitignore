@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+.obsidian.vimrc
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Env
+.env
+.env.*
+*.env
+
+# Backup
+*.bak
+*.tmp
+
+# System
+Thumbs.db
